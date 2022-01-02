@@ -13,7 +13,7 @@ I'm a C# Programmer and Unity Developer.
 
 ## Reach me on
 - ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white): https://github.com/NadejdaR    
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/nadejda-romanovskaya-a65178119/
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/nadejda-romanovskaya/
 
 <br>
 
